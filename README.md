@@ -16,6 +16,9 @@ cd BasicofPython
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
+4.Execute um dos scripts:
+python conjuncedic9.py
+
 
 
 
